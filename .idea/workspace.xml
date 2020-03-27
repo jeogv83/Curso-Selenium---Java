@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f9f0760-30bb-4a94-9095-0e244b6e4384" name="Default Changelist" comment="" />
+    <list default="true" id="5f9f0760-30bb-4a94-9095-0e244b6e4384" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/org/fabrica/basico/CloseQuit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fabrica/basico/Forms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZGf4MxUhupviiqsmgKPDVq5kJY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,7 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Prueba_1" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Ejercicios_Selenium" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -40,7 +48,33 @@
       <recent name="C:\Users\JESUS\IdeaProjects\SeleniumPrueba1\lib\Selenium 3.6.0" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WebDriverExceptions">
+  <component name="RunManager" selected="Application.Forms">
+    <configuration name="CloseQuit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fabrica.basico.CloseQuit" />
+      <module name="SeleniumPrueba1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.fabrica.basico.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Forms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fabrica.basico.Forms" />
+      <module name="SeleniumPrueba1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.fabrica.basico.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.fabrica.basico.ejemplo1" />
       <module name="SeleniumPrueba1" />
@@ -74,13 +108,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="locator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="locator" />
-      <module name="SeleniumPrueba1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="locators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.fabrica.basico.locators" />
       <module name="SeleniumPrueba1" />
@@ -96,10 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Forms" />
+        <item itemvalue="Application.CloseQuit" />
         <item itemvalue="Application.WebDriverExceptions" />
         <item itemvalue="Application.WebElements" />
         <item itemvalue="Application.locators" />
-        <item itemvalue="Application.locator" />
       </list>
     </recent_temporary>
   </component>
@@ -134,30 +162,30 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="412" y="168" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.768@0.0.1366.768" timestamp="1584483838229" />
-    <state x="463" y="132" key="FileChooserDialogImpl" timestamp="1585324084111">
+    <state x="463" y="132" key="FileChooserDialogImpl" timestamp="1585326671216">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="132" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585324084111" />
+    <state x="463" y="132" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585326671216" />
     <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1585320085230" />
-    <state width="1367" height="186" key="GridCell.Tab.0.bottom" timestamp="1585324306963">
+    <state width="1367" height="185" key="GridCell.Tab.0.bottom" timestamp="1585347216064">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="186" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585324306963" />
+    <state width="1367" height="185" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585347216064" />
     <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585153248708" />
-    <state width="1367" height="186" key="GridCell.Tab.0.center" timestamp="1585324306962">
+    <state width="1367" height="185" key="GridCell.Tab.0.center" timestamp="1585347216064">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="186" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585324306962" />
+    <state width="1367" height="185" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585347216064" />
     <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1585153248708" />
-    <state width="1367" height="186" key="GridCell.Tab.0.left" timestamp="1585324306962">
+    <state width="1367" height="185" key="GridCell.Tab.0.left" timestamp="1585347216064">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="186" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585324306962" />
+    <state width="1367" height="185" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585347216064" />
     <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1585153248708" />
-    <state width="1367" height="186" key="GridCell.Tab.0.right" timestamp="1585324306963">
+    <state width="1367" height="185" key="GridCell.Tab.0.right" timestamp="1585347216064">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="186" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585324306963" />
+    <state width="1367" height="185" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585347216064" />
     <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1585153248708" />
     <state x="184" y="19" key="SettingsEditor" timestamp="1585321078336">
       <screen x="0" y="0" width="1366" height="728" />
