@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f9f0760-30bb-4a94-9095-0e244b6e4384" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZGf4MxUhupviiqsmgKPDVq5kJY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Prueba_1" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.fabrica.basico" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JESUS\IdeaProjects\SeleniumPrueba1\Driver" />
+      <recent name="C:\Users\JESUS\IdeaProjects\SeleniumPrueba1\lib\Selenium 3.6.0" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.WebDriverExceptions">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fabrica.basico.ejemplo1" />
+      <module name="SeleniumPrueba1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebDriverExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fabrica.basico.WebDriverExceptions" />
+      <module name="SeleniumPrueba1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.fabrica.basico.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fabrica.basico.WebElements" />
+      <module name="SeleniumPrueba1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.fabrica.basico.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="locator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="locator" />
+      <module name="SeleniumPrueba1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="locators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fabrica.basico.locators" />
+      <module name="SeleniumPrueba1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.fabrica.basico.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WebDriverExceptions" />
+        <item itemvalue="Application.WebElements" />
+        <item itemvalue="Application.locators" />
+        <item itemvalue="Application.locator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f9f0760-30bb-4a94-9095-0e244b6e4384" name="Default Changelist" comment="" />
+      <created>1584470161452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584470161452</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Project_Structure" timestamp="1585324087096">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1585324087096" />
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584483842711">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1584483842711" />
+    <state x="422" y="177" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585321201696">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="422" y="177" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1585321201696" />
+    <state x="422" y="187" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1584890435594" />
+    <state x="412" y="168" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584483838229">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="412" y="168" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.768@0.0.1366.768" timestamp="1584483838229" />
+    <state x="463" y="132" key="FileChooserDialogImpl" timestamp="1585324084111">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="132" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585324084111" />
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1585320085230" />
+    <state width="1367" height="186" key="GridCell.Tab.0.bottom" timestamp="1585324306963">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="186" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585324306963" />
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585153248708" />
+    <state width="1367" height="186" key="GridCell.Tab.0.center" timestamp="1585324306962">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="186" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585324306962" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1585153248708" />
+    <state width="1367" height="186" key="GridCell.Tab.0.left" timestamp="1585324306962">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="186" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585324306962" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1585153248708" />
+    <state width="1367" height="186" key="GridCell.Tab.0.right" timestamp="1585324306963">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="186" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585324306963" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1585153248708" />
+    <state x="184" y="19" key="SettingsEditor" timestamp="1585321078336">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="19" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585321078336" />
+    <state x="184" y="26" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1584471855677" />
+    <state x="384" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1585324253338">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="197" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585324253338" />
+    <state x="384" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1585319413560" />
+  </component>
+</project>
