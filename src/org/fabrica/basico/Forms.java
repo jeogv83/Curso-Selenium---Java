@@ -1,8 +1,15 @@
 package org.fabrica.basico;
 
+import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.Select;
+
+import java.io.File;
+
+//Para print de pantalla
+
+
 
 public class Forms {
     static WebDriver driver; // se queda fuera del try para que cuando sea llamado en cualquier parte del codigo no de error
@@ -37,6 +44,10 @@ public class Forms {
             txtConfirmPassw.sendKeys("123");
             txtConfirmPassw.submit(); // con eto no necesito indicar que presiones boton SUBMIT de la página
             System.out.println("Prueba exitosa: " + driver.findElement(By.xpath("/html/body/div/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[3]/td/p[3]/a/font/b")).getText());
+
+           //Prueba captura de pantalla
+            File scrFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+            FileUtils.copyFile(scrFile, new File("C:\\Users\\Jennifer Vunic\\Documents\\SeleniumArch\\printSeleniumPrueba1\\screenshot.png"));
 
 
             }catch (NoSuchElementException ne){

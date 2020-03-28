@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f9f0760-30bb-4a94-9095-0e244b6e4384" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/org/fabrica/basico/CloseQuit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fabrica/basico/Forms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Selenium 3.6.0/org.apache.commons.io.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fabrica/basico/ejemplo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeleniumPrueba1/org/fabrica/basico/Forms.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeleniumPrueba1/org/fabrica/basico/Forms.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/fabrica/basico/Forms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/fabrica/basico/Forms.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Ejercicios_Selenium" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/Selenium 3.6.0" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -44,11 +46,13 @@
       <recent name="org.fabrica.basico" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jennifer Vunic\IdeaProjects\SeleniumPrueba1\lib\Selenium 3.6.0" />
+      <recent name="C:\Users\Jennifer Vunic\IdeaProjects\SeleniumPrueba1\lib\org.apache.commons.io.jar" />
       <recent name="C:\Users\JESUS\IdeaProjects\SeleniumPrueba1\Driver" />
       <recent name="C:\Users\JESUS\IdeaProjects\SeleniumPrueba1\lib\Selenium 3.6.0" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Forms">
+  <component name="RunManager" selected="Application.ejemplo2">
     <configuration name="CloseQuit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.fabrica.basico.CloseQuit" />
       <module name="SeleniumPrueba1" />
@@ -108,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="locators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.fabrica.basico.locators" />
+    <configuration name="ejemplo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fabrica.basico.ejemplo2" />
       <module name="SeleniumPrueba1" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ejemplo2" />
         <item itemvalue="Application.Forms" />
         <item itemvalue="Application.CloseQuit" />
         <item itemvalue="Application.WebDriverExceptions" />
         <item itemvalue="Application.WebElements" />
-        <item itemvalue="Application.locators" />
       </list>
     </recent_temporary>
   </component>
@@ -167,35 +171,39 @@
     </state>
     <state x="463" y="132" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585326671216" />
     <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1585320085230" />
-    <state width="1367" height="185" key="GridCell.Tab.0.bottom" timestamp="1585347216064">
+    <state width="1367" height="91" key="GridCell.Tab.0.bottom" timestamp="1585415439923">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="185" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585347216064" />
+    <state width="1367" height="91" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585415439923" />
     <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585153248708" />
-    <state width="1367" height="185" key="GridCell.Tab.0.center" timestamp="1585347216064">
+    <state width="1367" height="91" key="GridCell.Tab.0.center" timestamp="1585415439923">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="185" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585347216064" />
+    <state width="1367" height="91" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585415439923" />
     <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1585153248708" />
-    <state width="1367" height="185" key="GridCell.Tab.0.left" timestamp="1585347216064">
+    <state width="1367" height="91" key="GridCell.Tab.0.left" timestamp="1585415439923">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="185" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585347216064" />
+    <state width="1367" height="91" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585415439923" />
     <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1585153248708" />
-    <state width="1367" height="185" key="GridCell.Tab.0.right" timestamp="1585347216064">
+    <state width="1367" height="91" key="GridCell.Tab.0.right" timestamp="1585415439923">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="185" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585347216064" />
+    <state width="1367" height="91" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585415439923" />
     <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1585153248708" />
     <state x="184" y="19" key="SettingsEditor" timestamp="1585321078336">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="19" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585321078336" />
     <state x="184" y="26" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1584471855677" />
-    <state x="384" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1585324253338">
+    <state x="384" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1585407332723">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="384" y="197" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585324253338" />
+    <state x="384" y="197" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585407332723" />
     <state x="384" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1585319413560" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585414663072">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585414663072" />
   </component>
 </project>
